@@ -271,3 +271,7 @@ int main() {
 
 // abhi tak tree a architecture and queue and all this are done
 // task left to from insertion 
+<<<<<<< HEAD
+=======
+// this code is giving the error
+>>>>>>> e74cb53 (reinitialzing repo)
